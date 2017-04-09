@@ -1,5 +1,5 @@
 # vue-ele
-##git remote add origin https://github.com/yesixuan/vue-elementUI.git
+git remote add origin https://github.com/yesixuan/vue-elementUI.git
 
 > 一个集成了elementUI的vue脚手架
 
@@ -21,9 +21,9 @@ npm run build --report
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
-###2017-4-9
+2017-4-9
 
-####如何添加VUE对sass的支持
+如何添加VUE对sass的支持
 ``` bash
 cnpm install node-sass  --save
 
