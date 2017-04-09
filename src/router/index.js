@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import Hello from '@/components/Hello'
 import router1 from '@/components/router1'
 import router2 from '@/components/router2'
+import vuex from '@/components/vuex'
 
 Vue.use(Router)
 
@@ -20,6 +21,10 @@ export default new Router({
     {
       path: '/router2',
       component: router2
+    },
+    {
+      path: '/vuex',
+      component: vuex
     }
   ]
 })
