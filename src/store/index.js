@@ -1,3 +1,6 @@
+/*
+初始化state；实例化store，并且将state、getters、actions、mutations传进去
+ */
 import Vue from 'vue'
 import Vuex from 'vuex'
 import * as getters from './getters'
